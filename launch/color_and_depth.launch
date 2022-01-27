@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="pose" type="pose_estim_V2.py" name="PostDetectV2" output="screen"></node>
+</launch>
